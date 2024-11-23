@@ -5,7 +5,6 @@ date: 2017-04-12
 last_modified_at: 2021-03-11
 tags:
   - Linux
-lang: en
 ---
 
 Here are things I do after installing Ubuntu 20.04.
@@ -39,30 +38,33 @@ Texts on a small screen are difficult for me to read, so I have to increase the 
 After enabling the Large Text, I continue to install the Gnome Tweaks (`sudo apt install gnome-tweaks`), then go to Tweaks → Fonts → Scaling Factor and change the scaling value.
 
 ## Install Miscellaneous Tools
-* [Chrome](https://www.google.com/chrome/)
-* [Microsoft Edge](https://www.microsoftedgeinsider.com/en-us/download)
-* [Firefox](https://www.mozilla.org/en-US/firefox/new/)
-* [KeePass](https://sourceforge.net/p/keepass/discussion/329220/thread/17d1bd26/)
-* [Dropbox](https://www.dropbox.com/install)
-* [Flameshot](https://github.com/flameshot-org/flameshot/releases)
-* [Vietnamese Input](https://github.com/BambooEngine/ibus-bamboo)
-* [NetSpeed](https://ubuntuhandbook.org/index.php/2020/06/download-upload-speed-ubuntu-20-04-panel/)
+
+- [Chrome](https://www.google.com/chrome/)
+- [Microsoft Edge](https://www.microsoftedgeinsider.com/en-us/download)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- [KeePass](https://sourceforge.net/p/keepass/discussion/329220/thread/17d1bd26/)
+- [Dropbox](https://www.dropbox.com/install)
+- [Flameshot](https://github.com/flameshot-org/flameshot/releases)
+- [Vietnamese Input](https://github.com/BambooEngine/ibus-bamboo)
+- [NetSpeed](https://ubuntuhandbook.org/index.php/2020/06/download-upload-speed-ubuntu-20-04-panel/)
 
 ## Install Communication Tools
-* [Skype](https://www.skype.com/en/get-skype/)
-* [Telegram](https://www.omgubuntu.co.uk/2019/08/how-to-install-telegram-on-ubuntu)
-* [Slack](https://slack.com/downloads/linux)
-* [Discord](https://discord.com/download)
-* [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/download-app)
+
+- [Skype](https://www.skype.com/en/get-skype/)
+- [Telegram](https://www.omgubuntu.co.uk/2019/08/how-to-install-telegram-on-ubuntu)
+- [Slack](https://slack.com/downloads/linux)
+- [Discord](https://discord.com/download)
+- [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/download-app)
 
 ## Install Developer Tools
-* [Git](https://git-scm.com/download/linux)
-* [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/wiki)
-* [Terminator](https://github.com/gnome-terminator/terminator/blob/master/INSTALL.md)
-* [Docker](https://docs.docker.com/engine/install/ubuntu/)
-* [Postman](https://speedysense.com/install-postman-on-ubuntu-20-04/)
-* [htop](https://htop.dev/downloads.html)
-* [mkcert](https://github.com/FiloSottile/mkcert)
-* [Node Version Manager](https://github.com/nvm-sh/nvm)
-* [Jetbrains IDEs](https://www.jetbrains.com/help/idea/installation-guide.html#toolbox)
-* [VS Code](https://code.visualstudio.com/)
+
+- [Git](https://git-scm.com/download/linux)
+- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/wiki)
+- [Terminator](https://github.com/gnome-terminator/terminator/blob/master/INSTALL.md)
+- [Docker](https://docs.docker.com/engine/install/ubuntu/)
+- [Postman](https://speedysense.com/install-postman-on-ubuntu-20-04/)
+- [htop](https://htop.dev/downloads.html)
+- [mkcert](https://github.com/FiloSottile/mkcert)
+- [Node Version Manager](https://github.com/nvm-sh/nvm)
+- [Jetbrains IDEs](https://www.jetbrains.com/help/idea/installation-guide.html#toolbox)
+- [VS Code](https://code.visualstudio.com/)

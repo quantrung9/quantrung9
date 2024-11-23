@@ -5,7 +5,6 @@ date: 2021-07-25
 last_modified_at: 2021-07-25
 tags:
   - PyCharm
-lang: en
 ---
 
 A collection of issues I ran into when using PyCharm and ways to resolve them.

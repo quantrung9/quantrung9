@@ -6,7 +6,6 @@ date: 2023-03-04
 last_modified_at: 2023-03-05
 tags:
   - Ngôn ngữ
-lang: vi
 ---
 
 Sau khi nhận kết quả, để biết rõ điểm các tiêu chí (criteria) của từng kĩ năng thì các bạn có thể điền vào form yêu cầu.

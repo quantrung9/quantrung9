@@ -7,7 +7,6 @@ last_modified_at: 2021-02-08
 tags:
   - Ngôn ngữ
   - Công nghệ
-lang: vi
 ---
 
 Đối với mình, từ vựng được ghi chú hiệu quả khi chúng được lưu trữ kèm theo ngữ cảnh đầy đủ.
@@ -20,7 +19,7 @@ Cách này có một vài khuyết điểm như: không thể điều hướng n
 
 Đó chính là lý do mình đã dành khoảng 800 giờ, trải dài trong khoảng thời gian từ năm 2017 đến 2020, để xây dựng công cụ ghi chú từ vựng trong ngữ cảnh.
 
-Đây là giao diện của form tạo ghi chú cho từ "*scrutinise*".
+Đây là giao diện của form tạo ghi chú cho từ "_scrutinise_".
 
 {% include figure image_path="/assets/images/langnote-2.png" alt="Tạo ghi chú cho từ *scrutinise*" caption="Tạo ghi chú cho từ *scrutinise*" %}
 

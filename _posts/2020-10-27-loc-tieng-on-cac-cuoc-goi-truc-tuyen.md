@@ -5,7 +5,6 @@ date: 2020-10-27
 last_modified_at: 2021-02-08
 tags:
   - Công nghệ
-lang: vi
 redirect_from:
   - /danh-gia-krisp-ung-dung-loc-tieng-on-va-tap-am/
 ---

@@ -6,7 +6,6 @@ date: 2020-11-11
 last_modified_at: 2021-02-07
 tags:
   - Công nghệ
-lang: vi
 redirect_from:
   - /phat-hien-nang-khong-gia-tren-san-thuong-mai-dien-tu/
 ---

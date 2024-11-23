@@ -5,10 +5,9 @@ date: 2020-11-12
 last_modified_at: 2021-02-11
 tags:
   - Ngôn ngữ
-lang: vi
 ---
 
-***Cập nhật tháng 01/2021***: các bạn nên tham dự buổi thi thử để nhận voucher ***giảm giá 500.000 đồng***, nếu không thì chỉ giảm 400.000 đồng.
+**_Cập nhật tháng 01/2021_**: các bạn nên tham dự buổi thi thử để nhận voucher **_giảm giá 500.000 đồng_**, nếu không thì chỉ giảm 400.000 đồng.
 
 Bài viết này sẽ tường thuật lại toàn bộ trải nghiệm của mình với kì thi IELTS trên máy tính vừa qua vào tháng 10/2020. Tuy có một số khúc mắc ở phần thi nghe nhưng thi IELTS trên máy tính mang lại nhiều lợi thế hơn so với thi trên giấy.
 
@@ -26,18 +25,18 @@ Việc đăng kí rất đơn giản, chỉ cần điền vào [form này](https
 
 Tại TP.HCM, British Council sắp xếp 2 địa điểm tổ chức thi IELTS trên máy:
 
-* Viettel Tower (sử dụng máy tính để bàn - desktop)
-* UAC (sử dụng máy tính xách tay - laptop)
+- Viettel Tower (sử dụng máy tính để bàn - desktop)
+- UAC (sử dụng máy tính xách tay - laptop)
 
 Mình chọn UAC vì cuối tuần thi tại đây có khuyến mãi, ngược lại với Viettel Tower chỉ có khuyến mãi cho các ngày thi trong tuần - từ thứ hai đến thứ sáu.
 
 UAC trang bị laptop Dell Inspiron 3793 có:
 
-* Màn hình kích thước 17 inches - tương đối có nhiều không gian.
-* Headphone ôm hết tai - nghe rất rõ.
-* Chuột gaming gắn ngoài - rất nhạy, giúp thao tác nhanh và thoải mái so với việc sử dụng bàn rê (touchpad) mặc định.
-* Sử dụng mạng dây nên không lo bị mất kết nối giữa chừng như mạng không dây Wi-Fi.
-* **Bàn phím với hành trình phím rất nông** nên khi gõ không cảm nhận được phím. Mình phải mất vài phút để làm quen với bàn phím này nên có đôi chút thất vọng.
+- Màn hình kích thước 17 inches - tương đối có nhiều không gian.
+- Headphone ôm hết tai - nghe rất rõ.
+- Chuột gaming gắn ngoài - rất nhạy, giúp thao tác nhanh và thoải mái so với việc sử dụng bàn rê (touchpad) mặc định.
+- Sử dụng mạng dây nên không lo bị mất kết nối giữa chừng như mạng không dây Wi-Fi.
+- **Bàn phím với hành trình phím rất nông** nên khi gõ không cảm nhận được phím. Mình phải mất vài phút để làm quen với bàn phím này nên có đôi chút thất vọng.
 
 Mình nghĩ tiêu chí đầu tiên để quyết định thi trên laptop hay desktop chính là bàn phím nên các bạn hãy đến thi thử ít nhất một lần để quyết định chuyện này. Nếu là mình, mình sẽ không bao giờ chọn thi trên laptop nữa, trừ khi UAC có trang bị bàn phím gắn ngoài.
 
@@ -63,8 +62,8 @@ Lệ phí thi là 4.750.000 đồng, đã bao gồm VAT 10%, có thể thanh to�
 
 Sau khi đăng kí thì mình vào [trang này](https://www.ieltsasia.org/vn/events/uu-dai-thi-ielts-tren-may-tinh-ngay-trong-tuan) để điền vào đơn đăng ký nhận quà. Mình điền xong thì 3 ngày sau có người gọi điện thoại xác nhận lại thông tin và ngày hôm sau mình nhận được phong bì chứa quà qua đường bưu điện. Phong bì gồm:
 
-* 3 phiếu quà tặng [Got It](https://www.gotit.vn/our-merchants/brands), trị giá mỗi phiếu là 100.000 đồng, các phiếu đều có lớp mã tráng bạc cho việc thanh toán trực tuyến hoặc trực tiếp tại cửa hàng - đây có lẽ là phần quà thiết thực nhất trong cả bộ quà tặng.
-* USB 16GB với 2 bộ đề mẫu được British Council tự soạn năm 2019 - mình thấy một trong những bài đọc được soạn từ bài [Arctic shipwreck 'frozen in time' astounds archaeologists](https://www.nationalgeographic.com/culture/2019/08/arctic-shipwreck-frozen-astounds-archaeologists/) trên National Geographic.
+- 3 phiếu quà tặng [Got It](https://www.gotit.vn/our-merchants/brands), trị giá mỗi phiếu là 100.000 đồng, các phiếu đều có lớp mã tráng bạc cho việc thanh toán trực tuyến hoặc trực tiếp tại cửa hàng - đây có lẽ là phần quà thiết thực nhất trong cả bộ quà tặng.
+- USB 16GB với 2 bộ đề mẫu được British Council tự soạn năm 2019 - mình thấy một trong những bài đọc được soạn từ bài [Arctic shipwreck 'frozen in time' astounds archaeologists](https://www.nationalgeographic.com/culture/2019/08/arctic-shipwreck-frozen-astounds-archaeologists/) trên National Geographic.
 
 Ngoài ra, sau khi thanh toán lệ phí thành công, trong tài khoản cá nhân sẽ hiển thị bộ tài liệu luyện thi IELTS được quảng cáo là chỉ có duy nhất tại British Council:
 
@@ -78,6 +77,7 @@ Ngoài ra, sau khi thanh toán lệ phí thành công, trong tài khoản cá nh
 8. Ứng dụng điện thoại [IELTS Word Power](https://play.google.com/store/apps/details?id=com.ubl.ielts&hl=en_US&gl=US)
 
 Ngoài ra còn 2 phần quà này không thấy đề cập:
+
 1. Livechat "Ask the Expert"
 2. Blog du học British Council IELTS Opportunities Aboard
 
@@ -94,14 +94,16 @@ Mình tới điểm thi theo lịch hẹn là đúng 8h sáng. Do đang mùa d�
 **Lưu ý**: Đăng kí bằng loại giấy tờ gì thì khi làm thủ tục phải xuất trình đúng loại giấy tờ đó. Nếu lúc đăng kí sử dụng chứng minh nhân dân mà ngày thi sử dụng hộ chiếu thì không được chấp nhận.
 
 Sau khi kiểm tra giấy tờ thì giám thị tiến hành chụp hình và lấy dấu vân tay, cuối cùng là quét toàn thân để dò kim loại trước khi được vào chỗ ngồi được chỉ định. Ở mỗi chỗ ngồi được để sẵn:
-* Một chai [Aquafina 355ml](https://www.bachhoaxanh.com/nuoc-suoi-khoang/nuoc-suoi-aquafina-355ml) đã bóc vỏ
-* Một bút chì gỗ
-* Một cặp nút tai chống ồn [3M 1110](https://shopee.vn/N%C3%BAt-tai-b%E1%BB%8Dt-x%E1%BB%91p-c%C3%B3-d%C3%A2y-3M-1110-i.21353373.1735366663) - có thể hữu ích với ai bị phân tâm bởi tiếng click chuột và tiếng bàn phím
+
+- Một chai [Aquafina 355ml](https://www.bachhoaxanh.com/nuoc-suoi-khoang/nuoc-suoi-aquafina-355ml) đã bóc vỏ
+- Một bút chì gỗ
+- Một cặp nút tai chống ồn [3M 1110](https://shopee.vn/N%C3%BAt-tai-b%E1%BB%8Dt-x%E1%BB%91p-c%C3%B3-d%C3%A2y-3M-1110-i.21353373.1735366663) - có thể hữu ích với ai bị phân tâm bởi tiếng click chuột và tiếng bàn phím
 
 Một số nội quy tiêu biểu:
-* Không có thời gian nghỉ để đi vệ sinh, nếu đi thì bị trừ vào thời gian làm bài, không được bù.
-* Không được đi vệ sinh trong phần thi nghe (30 phút đầu).
-* Được đi vệ sinh trong phần thi đọc và viết, ngoại trừ 10 phút cuối của mỗi phần. Ai đang ở ngoài thì phải trở lại trong 10 phút cuối này.
+
+- Không có thời gian nghỉ để đi vệ sinh, nếu đi thì bị trừ vào thời gian làm bài, không được bù.
+- Không được đi vệ sinh trong phần thi nghe (30 phút đầu).
+- Được đi vệ sinh trong phần thi đọc và viết, ngoại trừ 10 phút cuối của mỗi phần. Ai đang ở ngoài thì phải trở lại trong 10 phút cuối này.
 
 Giữa mỗi phần thi có thể tranh thủ nghỉ được 2 phút khi chờ máy tải đề và giám thị phát tờ thông tin đăng nhập của phần tiếp theo.
 
@@ -111,7 +113,7 @@ Bạn sẽ không được chạm tay vào máy cho đến khi giám thị cho p
 
 Trước mỗi phần đều có khoảng 30 giây để đọc đề, vừa đủ để sử dụng công cụ highlight tô màu các từ khóa (các câu Multiple choice các bạn đừng highlight các đáp án - sẽ bị rối; các bạn nên tập trung nghe hiểu thay vì nghe kiểu bắt keyword). Sau mỗi phần thí sinh lại có một phút để kiểm tra, vừa đủ để nhìn ghi chú trên giấy và chọn đáp án các câu Multiple choice của phần khó như phần 3, nhưng không đủ để gõ lại tất cả đáp án, nên tốt nhất các câu điền từ các bạn nên gõ trực tiếp trên máy.
 
-***Cập nhật tháng 02/2021***: bạn [Trinh](https://www.linkedin.com/in/nguyen-trinh-187854153/), vừa đạt 8.0 phần thi Listening, có chia sẻ lại rằng lúc làm bài bạn ấy không sử dụng ghi chú hoặc highlight keyword, chỉ đơn thuần đọc câu hỏi để chuẩn bị và đặt tay lên phím gõ câu trả lời. Bạn ấy cũng làm theo hiệu lệnh của bài thi, không cố tình nhảy trước sang part mới mà bỏ qua công đoạn 1 phút kiểm tra lại câu trả lời ở part cũ.
+**_Cập nhật tháng 02/2021_**: bạn [Trinh](https://www.linkedin.com/in/nguyen-trinh-187854153/), vừa đạt 8.0 phần thi Listening, có chia sẻ lại rằng lúc làm bài bạn ấy không sử dụng ghi chú hoặc highlight keyword, chỉ đơn thuần đọc câu hỏi để chuẩn bị và đặt tay lên phím gõ câu trả lời. Bạn ấy cũng làm theo hiệu lệnh của bài thi, không cố tình nhảy trước sang part mới mà bỏ qua công đoạn 1 phút kiểm tra lại câu trả lời ở part cũ.
 
 Nhìn chung, thi nghe trên máy sẽ khó ghi chú hơn so với thi giấy (thi trên máy cũng có chức năng chú thích nhưng thực tế rất vô dụng do mất nhiều thao tác để tạo ghi chú) nên các bạn hãy luyện thao tác cho phần này thật kĩ. Các bạn nên luyện tập để kĩ năng làm bài cũng như năng lực ngôn ngữ đạt tới mức như bạn [Trinh](https://www.linkedin.com/in/nguyen-trinh-187854153/) - không cần sử dụng các công cụ hỗ trợ - là ổn.
 
@@ -128,8 +130,9 @@ Khuyết điểm duy nhất là không ghi chú được đoạn nào cung cấp
 ### Thi viết
 
 Có thể nói đây là phần thi được hưởng lợi nhất từ việc thi máy. Hai lợi ích lớn nhất mình tận dụng được:
-* Không còn phải lo ước lượng xem mình viết có đủ số từ tối thiểu hay không do có công cụ word count để đếm số từ.
-* Sắp xếp bài viết cân xứng và đầy đủ hơn vì mình có thể viết mở bài, kết bài, khung sườn trước và chèn chi tiết thân bài vào sau. Cách làm như vậy sẽ tránh tình trạng viết theo thứ tự từ trên xuống dưới như khi thi giấy khiến các phần cuối bị cắt giảm do sắp hết giờ.
+
+- Không còn phải lo ước lượng xem mình viết có đủ số từ tối thiểu hay không do có công cụ word count để đếm số từ.
+- Sắp xếp bài viết cân xứng và đầy đủ hơn vì mình có thể viết mở bài, kết bài, khung sườn trước và chèn chi tiết thân bài vào sau. Cách làm như vậy sẽ tránh tình trạng viết theo thứ tự từ trên xuống dưới như khi thi giấy khiến các phần cuối bị cắt giảm do sắp hết giờ.
 
 Điểm trừ ở phần thi này là trải nghiệm với bàn phím của laptop Dell Inspiron quá tệ. Nếu được sử dụng bàn phím tốt hơn, mình có thể tăng tốc độ hoàn thành bài viết.
 

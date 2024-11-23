@@ -1,8 +1,7 @@
 ---
 title: "Posts by Tag"
-permalink: /en/tags/
+permalink: /tags/
 layout: tags
 author_profile: false
-lang: en
 sitemap: false
 ---

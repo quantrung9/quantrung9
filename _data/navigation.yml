@@ -1,10 +1,6 @@
 # main links
 main:
-  en:
-    - title: "Posts"
-      url: /en/posts/
-  vi:
-    - title: "Bài viết"
-      url: /vi/bai-viet/
-    - title: "Bản quyền"
-      url: /vi/ban-quyen/
+  - title: "Tags"
+    url: /tags/
+  - title: "Archive"
+    url: /year-archive/

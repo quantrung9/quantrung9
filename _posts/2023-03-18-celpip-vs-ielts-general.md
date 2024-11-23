@@ -4,7 +4,6 @@ title: "CELPIP khác gì so với Ielts General"
 date: 2023-03-18
 tags:
   - Ngôn ngữ
-lang: vi
 ---
 
 ~~Thời gian gần đây có nhiều case bị stuck ở Ielts Writing 6.5 nhưng lại thành công khi chuyển sang CELPIP ([case 1](https://www.facebook.com/groups/286148379304733/posts/904026814183550/), [case 2](https://www.facebook.com/groups/286148379304733/posts/899824491270449/)) nên mình nghĩ đây sẽ là hướng đi mới của mình.~~
@@ -12,7 +11,7 @@ lang: vi
 **Update Jan 2024**: Reading CELPIP khó hơn xưa, câu hỏi lắt léo. Mình xin trích lại [review](https://www.facebook.com/groups/286148379304733/posts/1009153650337532/?comment_id=1017583532827877&__cft__[0]=AZXnvR_vgUdaN-aDx7DOqB5ulRBaHif4yV2PVHjE1xjI_ADb-bA6y-Dvubqn7Dn6tLba-INBVGFluV7hft0QRbB0IrsaDRP9FeBasj5yVwXrIvVLQUj7lTmv5HSEqK1SiO0wnhHJ-V9WMKQ2XgNabF5fR-CAA9shI8UUsl9jG3N-2s2q4w5gdheEURgQWfjYWJ4&__tn__=R]-R) của một bạn:
 
 > Mình bế tắc với bài đọc của CELPIP, bài dễ hiểu nhưng để trả lời đúng còn phải hiểu được tâm tư tâm tình của người ra đề nữa thì phải. Ví dụ bài viết thư giữa 2 người, ông khoe làm vườn bà cho kinh nghiệm. Nhưng trong đó có đoạn ông sẽ đi mua thêm hạt để làm cái vườn to hơn. Câu hỏi là ông chuẩn bị làm gì? Hahahahaa câu trả lời lại là <br> a. Đi mua hạt <br>B. Làm cái vườn to hơn
-<br> Ủa, dzậy giờ chọn nàm thao mới đúng 🤭
+> <br> Ủa, dzậy giờ chọn nàm thao mới đúng 🤭
 
 Cám ơn [chị Ngọc](https://www.facebook.com/ngoc.nguyen.315865/posts/pfbid0AQWmNYZnD5zBSY71iNSkAgdBBuaRwuJHVXJ8TP1gAEdqPyvM9vWr7CFpehgEicTbl) đã truyền đạt rất nhanh những điểm khác biệt của CELPIP chỉ trong một buổi call 30 phút.
 
@@ -39,4 +38,3 @@ Speaking khác với IELTS là không phải answer short question mà giả l�
 ### Tổng kết
 
 Bài thi CELPIP được xây dựng hoàn toàn từ đầu để phục vụ kiểm tra các tình huống giao tiếp thường ngày. IELTS General thì có vẻ như được lai tạo từ Academic nên có một số tiêu chí không hợp lí.
-

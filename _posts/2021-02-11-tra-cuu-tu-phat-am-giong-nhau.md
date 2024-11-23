@@ -6,7 +6,6 @@ date: 2021-02-19
 tags:
   - Ngôn ngữ
   - Công nghệ
-lang: vi
 ---
 
 Trong tiếng Anh, có một số từ có cách phát âm (pronunciation) tương tự nhau, thậm chí là giống nhau hoàn toàn, mặc dù mặt chữ (spelling) và nghĩa (meaning) khác nhau.

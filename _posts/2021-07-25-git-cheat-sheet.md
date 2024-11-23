@@ -5,7 +5,6 @@ date: 2021-07-25
 last_modified_at: 2021-07-25
 tags:
   - Git
-lang: en
 ---
 
 Commonly used Git commands for easy reference.

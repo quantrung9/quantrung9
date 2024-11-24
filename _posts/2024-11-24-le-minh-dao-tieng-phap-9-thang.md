@@ -6,7 +6,7 @@ tags:
   - Ngôn ngữ
 ---
 
-Giới thiệu sơ lược về [anh Đạo](https://afamily.vn/cuu-sinh-vien-dh-ngoai-thuong-chia-se-bi-quyet-ban-3-thu-tieng-duoc-cac-tap-doan-lon-tuyen-dung-20221209224211198.chn): chinh phục chứng chỉ IELTS 8.0 và TCF Canada trình độ cao cấp (C1/B2).
+Giới thiệu sơ lược về [anh Đạo](https://afamily.vn/cuu-sinh-vien-dh-ngoai-thuong-chia-se-bi-quyet-ban-3-thu-tieng-duoc-cac-tap-doan-lon-tuyen-dung-20221209224211198.chn): anh đã chinh phục chứng chỉ IELTS 8.0 và TCF Canada trình độ cao cấp (C1/B2).
 
 Anh Đạo chia sẻ rằng việc học ngoại ngữ của anh không phải do thiên bẩm mà là do nỗ lực học tập và sử dụng thành thạo để phục vụ cho công việc và cuộc sống:
 

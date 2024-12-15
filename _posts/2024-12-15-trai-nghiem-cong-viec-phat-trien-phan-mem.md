@@ -12,7 +12,7 @@ Mình bắt đầu công việc phát triển phần mềm vào ngày 17/4/2017,
 
 ## Khám phá những điều mình chưa biết
 
-Hồi mới đi làm, khi được làm với framework mới, ngôn ngữ mới, mình cảm thấy rạo rực. Khi đổi công ty, được làm quen với business domain mới, mình cũng cảm thấy như vậy. Tuy nhiên, làm lâu rồi mình thấy bớt hứng thú với những yếu tố này. Mình hứng thú khi là problem solver hơn - công nghệ mới, kĩ thuật mới thì cũng nên góp phần giải quyết bài toán gì đó.
+Hồi mới đi làm, khi được làm với framework mới, ngôn ngữ mới, mình cảm thấy phấn khởi. Khi đổi công ty, được làm quen với business domain mới, mình cũng cảm thấy như vậy. Tuy nhiên, làm lâu rồi mình thấy bớt hứng thú với những yếu tố này. Mình hứng thú khi là problem solver hơn - công nghệ mới, kĩ thuật mới thì cũng nên góp phần giải quyết bài toán gì đó.
 
 ## Niềm vui khi là problem solver
 
@@ -58,4 +58,4 @@ Có mấy lần mình đặt lịch nghỉ trước cỡ 2 tháng nhưng mà t�
 
 # Tổng kết
 
-Những điều mình "bị" kể trên có lẽ do mình chưa được trải nghiệm những môi trường khác tốt hơn (các công ty Bắc Âu, công ty Đức, công ty Úc, ...), nhiều khi có môi trường tốt hơn sẽ triệu tiêu gần hết những điều đó, ngoại trừ những điều như bị nghỉ việc, nhảy qua lại giữa những tác vụ khác nhau là những vấn đề không thể tránh khỏi, dù làm công ty nào vì công ty phải thích ứng với thị trường. Tuy nhiên, theo quan sát của mình, khi thị trường gặp khó khăn, nhà nhà bị nghỉ việc, vẫn có những môi trường đặc thù mà chưa thấy ai làm trong đó bị nghỉ.
+Những điều mình "bị" kể trên có lẽ do mình chưa được trải nghiệm những môi trường khác tốt hơn (các công ty Bắc Âu, công ty Đức, công ty Úc, ...), nhiều khi có môi trường tốt hơn sẽ triệu tiêu gần hết những điều đó, ngoại trừ những điều như bị nghỉ việc, nhảy qua lại giữa những tác vụ khác nhau là những vấn đề không thể tránh khỏi, dù làm công ty nào vì công ty phải thích ứng với thị trường. Tuy nhiên, theo quan sát của mình, khi thị trường gặp khó khăn, nhà nhà bị nghỉ việc, vẫn có những môi trường đặc thù mà chưa thấy ai làm trong đó bị nghỉ. Trong tương lai, mình mong muốn một công việc vẫn giữ được tất cả yếu tố tích cực và loại bỏ hoàn toàn các yếu tố tiêu cực.

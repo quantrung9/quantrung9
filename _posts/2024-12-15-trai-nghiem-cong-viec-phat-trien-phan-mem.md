@@ -12,7 +12,7 @@ Mình bắt đầu công việc phát triển phần mềm vào ngày 17/4/2017,
 
 ## Khám phá những điều mình chưa biết
 
-Hồi mới đi làm, khi được làm với framework mới, ngôn ngữ mới, mình cảm thấy phấn khởi. Khi đổi công ty, được làm quen với business domain mới, mình cũng cảm thấy như vậy. Tuy nhiên, làm lâu rồi mình thấy bớt hứng thú với những yếu tố này. Mình hứng thú khi là problem solver hơn - công nghệ mới, kĩ thuật mới thì cũng nên góp phần giải quyết bài toán gì đó.
+Hồi mới đi làm, khi được làm với framework mới, ngôn ngữ mới, mình cảm thấy hồ hởi. Khi đổi công ty, được làm quen với business domain mới, mình cũng cảm thấy như vậy. Tuy nhiên, làm lâu rồi mình thấy bớt hứng thú với những yếu tố này. Mình hứng thú khi là problem solver hơn - công nghệ mới, kĩ thuật mới thì cũng nên góp phần giải quyết bài toán gì đó.
 
 ## Niềm vui khi là problem solver
 

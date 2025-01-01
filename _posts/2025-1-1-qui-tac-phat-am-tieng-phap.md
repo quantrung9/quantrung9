@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Tóm tắt quy tắc phát âm tiếng Pháp"
-date: 2025-01-02
+date: 2025-1-1
 tags:
   - Ngôn ngữ
 ---

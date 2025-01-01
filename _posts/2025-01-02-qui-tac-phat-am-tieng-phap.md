@@ -36,12 +36,12 @@ tags:
 # Phụ âm
 
 - h là âm câm
-- ca đọc là /k/
-- co đọc là /k/
-- cu đọc là /k/
-- ce đọc là /s/
-- ci đọc là /s/
-- cy đọc là /s/
+- ca đọc là /ka/
+- co đọc là /kɔ/
+- cu đọc là /ky/
+- ce đọc là /si/
+- ci đọc là /si/
+- cy đọc là /si/
 - ez đọc là ê
 - et đọc là ê
 - er đọc là ê
